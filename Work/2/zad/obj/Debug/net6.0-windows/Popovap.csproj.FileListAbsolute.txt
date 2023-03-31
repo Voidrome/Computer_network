@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\Popovap\Popovap\obj\Debug\net6.0-windows\Popovap.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Popovap\Popovap\obj\Debug\net6.0-windows\Popovap.Form1.resources
+C:\Users\user\source\repos\Popovap\Popovap\obj\Debug\net6.0-windows\Popovap.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Popovap\Popovap\obj\Debug\net6.0-windows\Popovap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Popovap\Popovap\obj\Debug\net6.0-windows\Popovap.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Popovap\Popovap\obj\Debug\net6.0-windows\Popovap.AssemblyInfo.cs
+C:\Users\user\source\repos\Popovap\Popovap\obj\Debug\net6.0-windows\Popovap.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Popovap\Popovap\bin\Debug\net6.0-windows\Popovap.exe
+C:\Users\user\source\repos\Popovap\Popovap\bin\Debug\net6.0-windows\Popovap.deps.json
+C:\Users\user\source\repos\Popovap\Popovap\bin\Debug\net6.0-windows\Popovap.runtimeconfig.json
+C:\Users\user\source\repos\Popovap\Popovap\bin\Debug\net6.0-windows\Popovap.dll
+C:\Users\user\source\repos\Popovap\Popovap\bin\Debug\net6.0-windows\Popovap.pdb
+C:\Users\user\source\repos\Popovap\Popovap\obj\Debug\net6.0-windows\Popovap.dll
+C:\Users\user\source\repos\Popovap\Popovap\obj\Debug\net6.0-windows\refint\Popovap.dll
+C:\Users\user\source\repos\Popovap\Popovap\obj\Debug\net6.0-windows\Popovap.pdb
+C:\Users\user\source\repos\Popovap\Popovap\obj\Debug\net6.0-windows\Popovap.genruntimeconfig.cache
+C:\Users\user\source\repos\Popovap\Popovap\obj\Debug\net6.0-windows\ref\Popovap.dll
