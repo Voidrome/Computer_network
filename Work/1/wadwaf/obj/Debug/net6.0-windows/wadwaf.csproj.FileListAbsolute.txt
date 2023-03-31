@@ -1,0 +1,34 @@
+C:\Users\user\source\repos\wadwaf\wadwaf\bin\Debug\net6.0-windows\wadwaf.exe
+C:\Users\user\source\repos\wadwaf\wadwaf\bin\Debug\net6.0-windows\wadwaf.deps.json
+C:\Users\user\source\repos\wadwaf\wadwaf\bin\Debug\net6.0-windows\wadwaf.runtimeconfig.json
+C:\Users\user\source\repos\wadwaf\wadwaf\bin\Debug\net6.0-windows\wadwaf.dll
+C:\Users\user\source\repos\wadwaf\wadwaf\bin\Debug\net6.0-windows\wadwaf.pdb
+C:\Users\user\source\repos\wadwaf\wadwaf\obj\Debug\net6.0-windows\wadwaf.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\wadwaf\wadwaf\obj\Debug\net6.0-windows\wadwaf.Form1.resources
+C:\Users\user\source\repos\wadwaf\wadwaf\obj\Debug\net6.0-windows\wadwaf.csproj.GenerateResource.cache
+C:\Users\user\source\repos\wadwaf\wadwaf\obj\Debug\net6.0-windows\wadwaf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\wadwaf\wadwaf\obj\Debug\net6.0-windows\wadwaf.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\wadwaf\wadwaf\obj\Debug\net6.0-windows\wadwaf.AssemblyInfo.cs
+C:\Users\user\source\repos\wadwaf\wadwaf\obj\Debug\net6.0-windows\wadwaf.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\wadwaf\wadwaf\obj\Debug\net6.0-windows\wadwaf.dll
+C:\Users\user\source\repos\wadwaf\wadwaf\obj\Debug\net6.0-windows\refint\wadwaf.dll
+C:\Users\user\source\repos\wadwaf\wadwaf\obj\Debug\net6.0-windows\wadwaf.pdb
+C:\Users\user\source\repos\wadwaf\wadwaf\obj\Debug\net6.0-windows\wadwaf.genruntimeconfig.cache
+C:\Users\user\source\repos\wadwaf\wadwaf\obj\Debug\net6.0-windows\ref\wadwaf.dll
+C:\Users\voidr\OneDrive\Рабочий стол\wadwaf\wadwaf\bin\Debug\net6.0-windows\wadwaf.exe
+C:\Users\voidr\OneDrive\Рабочий стол\wadwaf\wadwaf\bin\Debug\net6.0-windows\wadwaf.deps.json
+C:\Users\voidr\OneDrive\Рабочий стол\wadwaf\wadwaf\bin\Debug\net6.0-windows\wadwaf.runtimeconfig.json
+C:\Users\voidr\OneDrive\Рабочий стол\wadwaf\wadwaf\bin\Debug\net6.0-windows\wadwaf.dll
+C:\Users\voidr\OneDrive\Рабочий стол\wadwaf\wadwaf\bin\Debug\net6.0-windows\wadwaf.pdb
+C:\Users\voidr\OneDrive\Рабочий стол\wadwaf\wadwaf\obj\Debug\net6.0-windows\wadwaf.csproj.AssemblyReference.cache
+C:\Users\voidr\OneDrive\Рабочий стол\wadwaf\wadwaf\obj\Debug\net6.0-windows\wadwaf.csproj.GenerateResource.cache
+C:\Users\voidr\OneDrive\Рабочий стол\wadwaf\wadwaf\obj\Debug\net6.0-windows\wadwaf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\voidr\OneDrive\Рабочий стол\wadwaf\wadwaf\obj\Debug\net6.0-windows\wadwaf.AssemblyInfoInputs.cache
+C:\Users\voidr\OneDrive\Рабочий стол\wadwaf\wadwaf\obj\Debug\net6.0-windows\wadwaf.AssemblyInfo.cs
+C:\Users\voidr\OneDrive\Рабочий стол\wadwaf\wadwaf\obj\Debug\net6.0-windows\wadwaf.csproj.CoreCompileInputs.cache
+C:\Users\voidr\OneDrive\Рабочий стол\wadwaf\wadwaf\obj\Debug\net6.0-windows\wadwaf.dll
+C:\Users\voidr\OneDrive\Рабочий стол\wadwaf\wadwaf\obj\Debug\net6.0-windows\refint\wadwaf.dll
+C:\Users\voidr\OneDrive\Рабочий стол\wadwaf\wadwaf\obj\Debug\net6.0-windows\wadwaf.pdb
+C:\Users\voidr\OneDrive\Рабочий стол\wadwaf\wadwaf\obj\Debug\net6.0-windows\wadwaf.genruntimeconfig.cache
+C:\Users\voidr\OneDrive\Рабочий стол\wadwaf\wadwaf\obj\Debug\net6.0-windows\ref\wadwaf.dll
+C:\Users\voidr\OneDrive\Рабочий стол\wadwaf\wadwaf\obj\Debug\net6.0-windows\zadanie1.Form1.resources
